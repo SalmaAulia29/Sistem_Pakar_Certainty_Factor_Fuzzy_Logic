@@ -1,0 +1,2 @@
+# Sistem_Pakar_Certainty_Factor_Fuzzy_Logic
+2306143_SALMA AULIA NISA
