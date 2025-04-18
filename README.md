@@ -29,4 +29,5 @@ Sistem ini ditujukan sebagai media pembelajaran dan simulasi bagaimana metode **
 ### 👩‍💻 Author
 **Salma Aulia Nisa 2306143**  
 Teknik Informatika  
+Institut Teknologi Garut
 [GitHub @SalmaAulia29](https://github.com/SalmaAulia29)
